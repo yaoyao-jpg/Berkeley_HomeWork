@@ -1,0 +1,8 @@
+# Two uses of the `story` command
+> story "Test"
+Test
+<<<
+> story "World"
+Test
+World
+<<<
